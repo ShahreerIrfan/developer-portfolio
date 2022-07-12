@@ -21,6 +21,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 section img {
@@ -40,4 +41,12 @@ section .half-width {
     color: white;
     font-weight: 700px;
 
+}
+
+/* ............... */
+
+#big-dream {
+    background-image: url(assets/asset\ 3.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
